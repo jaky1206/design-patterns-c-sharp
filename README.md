@@ -1,2 +1,2 @@
-# design-patterns-c-sharp
+# Design Patterns
 Design pattern examples based on videos from Dmitri Nesteruk
